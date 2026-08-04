@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0771-jewels-and-stones](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## String
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Math
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
