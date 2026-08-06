@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
