@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
 ## Math
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting
 |  |
@@ -51,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
