@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0771-jewels-and-stones](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1207-unique-number-of-occurrences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1207-unique-number-of-occurrences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1207-unique-number-of-occurrences) |
 | [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Math
