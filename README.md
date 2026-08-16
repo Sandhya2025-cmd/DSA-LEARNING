@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
