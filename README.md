@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Counting
 |  |
 | ------- |
