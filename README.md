@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1200-minimum-absolute-difference) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
 ## Polygons
