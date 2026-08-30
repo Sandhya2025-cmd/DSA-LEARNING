@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1512-number-of-good-pairs) |
+| [1550-three-consecutive-odds](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1550-three-consecutive-odds) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
