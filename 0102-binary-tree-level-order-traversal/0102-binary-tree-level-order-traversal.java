@@ -20,13 +20,13 @@ class Solution {
         if(root==null){
             return ans;
         }
-        queue.add(root);
+        queue.offer(root);
         while(!queue.isEmpty()){
             int level=queue.size();
             List<Integer> sublist = new ArrayList<>();
             for(int i=0;i<level;i++){
-                if(queue.peek().left != null) queue.add(queue.peek().left);
-                if(queue.peek().right != null) queue.add(queue.peek().right);
+                if(queue.peek().left != null) queue.offer(queue.peek().left);
+                if(queue.peek().right != null) queue.offer(queue.peek().right);
                 sublist.add(queue.poll().val);
             }
             ans.add(sublist);
