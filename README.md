@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
