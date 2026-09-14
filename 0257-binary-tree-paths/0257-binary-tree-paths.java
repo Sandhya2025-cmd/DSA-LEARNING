@@ -25,12 +25,12 @@ class Solution {
         if(root == null){
             return;
         }
-        
+        res=res+String.valueOf(root.val);
         if(root.left==null && root.right==null){
-            res=res+String.valueOf(root.val);
             ans.add(res);
+            return;
         }
-        res=res+String.valueOf(root.val)+"->";
+        res=res+"->";
         dfs(root.left,ans,res);
         dfs(root.right,ans,res);
     }
