@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1572-matrix-diagonal-sum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Enumeration
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
 | ------- |
@@ -240,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
