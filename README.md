@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1720-decode-xored-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1720-decode-xored-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0078-subsets) |
+| [1720-decode-xored-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1720-decode-xored-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
