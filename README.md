@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1720-decode-xored-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1200-minimum-absolute-difference) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
