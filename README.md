@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Counting
 |  |
