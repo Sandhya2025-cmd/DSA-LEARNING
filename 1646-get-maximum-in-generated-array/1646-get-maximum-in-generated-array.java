@@ -10,12 +10,15 @@ class Solution {
             if(2*i+1 >=2 && 2*i+1<=n){
                 nums[2*i+1]=nums[i]+nums[i+1];
             }
-        }
-        for(int num:nums){
-            if(num>max){
-                max=num;
+            if(nums[i]>max){
+                max=nums[i];
             }
         }
+        // for(int num:nums){
+        //     if(num>max){
+        //         max=num;
+        //     }
+        // }
         return max;
     }
 }
