@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0705-design-hashset](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0705-design-hashset](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0705-design-hashset) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -316,4 +318,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
