@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-decode-xored-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1720-decode-xored-array) |
+| [1732-find-the-highest-altitude](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Quicksort
 |  |
