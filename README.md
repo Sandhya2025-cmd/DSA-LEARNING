@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0771-jewels-and-stones) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0145-binary-tree-postorder-traversal) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0705-design-hashset) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
