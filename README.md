@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1572-matrix-diagonal-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1646-get-maximum-in-generated-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1646-get-maximum-in-generated-array) |
+| [1652-defuse-the-bomb](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-decode-xored-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1720-decode-xored-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1652-defuse-the-bomb](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
