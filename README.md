@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0021-merge-two-sorted-lists) |
 | [0705-design-hashset](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0705-design-hashset) |
 ## Design
 |  |
@@ -345,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
