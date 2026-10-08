@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
