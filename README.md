@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0705-design-hashset) |
+| [0845-longest-mountain-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0845-longest-mountain-in-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0845-longest-mountain-in-array) |
 | [1534-count-good-triplets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0455-assign-cookies) |
+| [0845-longest-mountain-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
