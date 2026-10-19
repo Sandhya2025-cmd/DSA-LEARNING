@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1331-rank-transform-of-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
