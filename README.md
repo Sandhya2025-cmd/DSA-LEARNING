@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1389-create-target-array-in-the-given-order) |
 | [1646-get-maximum-in-generated-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1646-get-maximum-in-generated-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
