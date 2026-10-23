@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3866-first-unique-even-element](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3866-first-unique-even-element) |
 ## Number Theory
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
