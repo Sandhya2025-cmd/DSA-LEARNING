@@ -1,17 +1,19 @@
 class Solution {
     public int countElements(int[] nums) {
         int c=0;
-        for(int i=0;i<nums.length;i++){
-            boolean small=false,large=false;
-            for(int j=0;j<nums.length;j++){
-                if(nums[j]<nums[i]){
-                    small=true;
-                }
-                if(nums[j]>nums[i]){
-                    large=true;
-                }
+        int max=nums[0],min=nums[0];
+        for(int num:nums){
+            if(num>max){
+                max=num;
             }
-            if(small && large) c++;
+            if(num<min){
+                min=num;
+            }
+        }
+        for(int e:nums){
+            if(e>min && e<max){
+                c++;
+            }
         }
         return c;
     }
