@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0152-maximum-product-subarray) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0455-assign-cookies) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0455-assign-cookies) |
 | [0845-longest-mountain-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0977-squares-of-a-sorted-array) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0455-assign-cookies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Geometry
@@ -430,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0169-majority-element) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
