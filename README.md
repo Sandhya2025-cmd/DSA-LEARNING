@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0152-maximum-product-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0845-longest-mountain-in-array) |
 ## Boyer–Moore String-Search Algorithm
 |  |
