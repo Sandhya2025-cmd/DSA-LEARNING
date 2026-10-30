@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0705-design-hashset) |
 | [0845-longest-mountain-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0845-longest-mountain-in-array) |
+| [0860-lemonade-change](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0860-lemonade-change) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
