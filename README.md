@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2413-smallest-even-multiple) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0845-longest-mountain-in-array) |
 | [1534-count-good-triplets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1534-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0078-subsets) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1720-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0257-binary-tree-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -442,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0075-sort-colors) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
