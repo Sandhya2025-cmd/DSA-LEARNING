@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0257-binary-tree-paths) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0066-plus-one) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0836-rectangle-overlap) |
