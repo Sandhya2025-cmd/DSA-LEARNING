@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0075-sort-colors) |
+| [0392-is-subsequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0455-assign-cookies) |
 | [0845-longest-mountain-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0977-squares-of-a-sorted-array) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0845-longest-mountain-in-array) |
 ## Boyer–Moore String-Search Algorithm
 |  |
