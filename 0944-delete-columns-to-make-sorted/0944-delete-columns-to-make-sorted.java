@@ -5,13 +5,11 @@ class Solution {
         for(int i=0;i<strs[0].length();i++){
             boolean flag=true;
             for(int j=0;j<strs.length-1;j++){
-                String curr=strs[j];
-                String next=strs[j+1];
-                if(curr.charAt(i)-'a'>next.charAt(i)-'a'){
-                    flag=false;
+                if(strs[j].charAt(i)-'a'>strs[j+1].charAt(i)-'a'){
+                    col++;
+                    break;
                 }
             }
-            if(!flag) col++;
         }
         return col;       
     }
