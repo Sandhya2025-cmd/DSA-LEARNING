@@ -1,21 +1,16 @@
 class Solution {
-    public int findShortestSubArray(int[] nums) {
-        int[] count = new int[50000];
-        Map<Integer,Integer> first = new HashMap<>();
-        int res=0,degree=0;
-
-        for(int i=0;i<nums.length;i++){
-          first.putIfAbsent(nums[i],i);
-          count[nums[i]]++;
-          if(count[nums[i]]>degree){
-            degree=count[nums[i]];
-            res=i-first.get(nums[i])+1;
-          }
-          else if(count[nums[i]]==degree){
-            res=Math.min(i-first.get(nums[i])+1,res);
-          }
+    public int findShortestSubArray(int[] A) {
+        Map<Integer, Integer> count = new HashMap<>(), first = new HashMap<>();
+        int res = 0, degree = 0;
+        for (int i = 0; i < A.length; ++i) {
+            first.putIfAbsent(A[i], i);
+            count.put(A[i], count.getOrDefault(A[i], 0) + 1);
+            if (count.get(A[i]) > degree) {
+                degree = count.get(A[i]);
+                res = i - first.get(A[i]) + 1;
+            } else if (count.get(A[i]) == degree)
+                res = Math.min(res, i - first.get(A[i]) + 1);
         }
-
         return res;
     }
 }
