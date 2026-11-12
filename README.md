@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2644-find-the-maximum-divisibility-score) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Enumeration
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Stack
 |  |
 | ------- |
@@ -493,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0944-delete-columns-to-make-sorted) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
