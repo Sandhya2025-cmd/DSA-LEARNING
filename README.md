@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1446-consecutive-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1768-merge-strings-alternately](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1773-count-items-matching-a-rule) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2367-number-of-arithmetic-triplets) |
