@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
