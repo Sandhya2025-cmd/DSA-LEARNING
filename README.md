@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1995-count-special-quadruplets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1995-count-special-quadruplets) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2367-number-of-arithmetic-triplets) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2363-merge-similar-items) |
