@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2367-number-of-arithmetic-triplets) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Queue
 |  |
