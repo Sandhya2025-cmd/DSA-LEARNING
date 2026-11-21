@@ -8,12 +8,10 @@ class Solution {
             sum+=d;
             n/=10;
           }
-          nums[i]=sum;
-        }
-        for(int num:nums){
-            if(num<min){
-                min=num;
+          if(sum<min){
+                min=sum;
             }
+          nums[i]=sum;
         }
         return min;
     }
