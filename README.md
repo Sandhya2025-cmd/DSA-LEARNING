@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
