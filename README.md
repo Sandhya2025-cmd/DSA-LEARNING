@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1331-rank-transform-of-an-array) |
+| [1436-destination-city](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1408-string-matching-in-an-array) |
+| [1436-destination-city](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1446-consecutive-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1389-create-target-array-in-the-given-order) |
 | [1408-string-matching-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1436-destination-city) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
