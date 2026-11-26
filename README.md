@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3798-largest-even-number](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3798-largest-even-number) |
 ## Array
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1652-defuse-the-bomb) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/3364-minimum-positive-sum-subarray) |
