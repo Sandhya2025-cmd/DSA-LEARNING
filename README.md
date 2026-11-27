@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0705-design-hashset) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0697-degree-of-an-array) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0594-longest-harmonious-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1512-number-of-good-pairs) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1200-minimum-absolute-difference) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/0594-longest-harmonious-subsequence) |
 | [1652-defuse-the-bomb](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sandhya2025-cmd/DSA-LEARNING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
